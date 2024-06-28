@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\15412\\Desktop\\c#classWork\\lab6-6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8299B558-197E-4E59-BAB2-3C0BE1BFA31F}|lab6-6\\lab6-6.csproj|c:\\users\\15412\\desktop\\c#classwork\\lab6-6\\lab6-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8299B558-197E-4E59-BAB2-3C0BE1BFA31F}|lab6-6\\lab6-6.csproj|solutionrelative:lab6-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\15412\\Desktop\\c#classWork\\lab6-6\\lab6-6\\Program.cs",
+              "RelativeDocumentMoniker": "lab6-6\\Program.cs",
+              "ToolTip": "C:\\Users\\15412\\Desktop\\c#classWork\\lab6-6\\lab6-6\\Program.cs",
+              "RelativeToolTip": "lab6-6\\Program.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAYwMUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T01:04:24.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
